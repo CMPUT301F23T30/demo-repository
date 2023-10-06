@@ -3,7 +3,8 @@ package com.example.myapplication;
 public abstract class Shape {
     private int x;
     private int y;
-    String color = "orange";
-    String color_b = "orange2";
+
+    String color = "cyan";
+
 
 }
